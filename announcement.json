@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "minVersion": "1.0.1",
   "title": "Maintenance Server",
   "message": "Kami sedang melakukan upgrade sistem untuk meningkatkan performa. Silakan tunggu beberapa saat.",
