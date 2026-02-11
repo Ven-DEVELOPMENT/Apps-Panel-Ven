@@ -1,0 +1,51 @@
+{
+  "name": "emilia-panel",
+  "version": "1.0.0",
+  "description": "Emilia Panel Desktop Application",
+  "author": "Ven Development",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win nsis"
+  },
+  "devDependencies": {
+    "electron": "^28.3.3",
+    "electron-builder": "^24.13.3"
+  },
+  "dependencies": {
+    "electron-updater": "^6.7.3"
+  },
+  "build": {
+    "appId": "com.ven.emilia",
+    "productName": "Emilia Panel",
+    "artifactName": "${productName} Setup ${version}.${ext}",
+    "icon": "assets/icon.ico",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "assets/icon.ico"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Emilia Panel",
+      "runAfterFinish": true
+    },
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "Ven-DEVELOPMENT",
+        "repo": "Apps-Panel-Ven"
+      }
+    ]
+  }
+}
