@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "minVersion": "1.0.0",
   "title": "Maintenance Test",
   "message": "Testing maintenance 1 menit.",
