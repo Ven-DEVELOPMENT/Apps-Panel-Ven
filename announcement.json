@@ -1,7 +1,7 @@
 {
-  "enabled": false,
+  "enabled": true,
   "minVersion": "1.0.3",
-  "title": "Maintenance Server",
-  "message": "Kami sedang melakukan upgrade sistem untuk meningkatkan performa. Silakan tunggu beberapa saat.",
-  "endTime": "2026-02-11T16:24:00Z"
+  "title": "Scheduled System Maintenance",
+  "message": "Our system is currently undergoing an important update and performance enhancement. Please wait while we complete the upgrade process.",
+  "endTime": "2026-02-11T21:00:00Z"
 }
