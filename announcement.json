@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "minVersion": "1.0.3",
+  "minVersion": "1.0.2",
   "title": "Maintenance Server",
   "message": "Kami sedang melakukan upgrade sistem untuk meningkatkan performa. Silakan tunggu beberapa saat.",
   "endTime": "2026-02-11T18:00:00Z"
