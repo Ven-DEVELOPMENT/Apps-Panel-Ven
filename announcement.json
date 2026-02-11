@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "minVersion": "1.0.4",
   "title": "Scheduled System Maintenance",
   "message": "Our system is currently undergoing an important update and performance enhancement. Please wait while we complete the upgrade process.",
