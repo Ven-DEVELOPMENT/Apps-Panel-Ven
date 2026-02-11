@@ -1,7 +1,7 @@
 {
-  "enabled": false,
+  "enabled": true,
   "minVersion": "1.0.0",
-  "title": "Maintenance Test",
-  "message": "Testing maintenance 1 menit.",
-  "endTime": "2026-02-11T20:01:00+07:00"
+  "title": "Maintenance",
+  "message": "Server sedang maintenance selama 1 jam (17:00 - 18:00 WIB).",
+  "endTime": "2026-02-11T11:00:00Z"
 }
