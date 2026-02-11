@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "minVersion": "1.0.0",
   "title": "Maintenance",
   "message": "Server sedang maintenance selama 1 jam (17:00 - 18:00 WIB).",
