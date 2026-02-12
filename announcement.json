@@ -1,7 +1,7 @@
 {
-  "enabled": false,
-  "minVersion": "1.0.4",
+  "enabled": true,
+  "minVersion": "1.0.3",
   "title": "Scheduled System Maintenance",
-  "message": "Our system is currently undergoing an important update and performance enhancement. Please wait while we complete the upgrade process.",
-  "endTime": "2026-02-11T05:00:00Z"
+  "message": "Our platform is currently undergoing a scheduled system update and performance optimization. We appreciate your patience while we complete this process.",
+  "endTime": "2026-02-12T05:00:00Z"
 }
