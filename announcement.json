@@ -2,6 +2,6 @@
   "enabled": true,
   "minVersion": "1.0.4",
   "title": "Scheduled System Maintenance",
-  "message": "Our platform is currently undergoing a scheduled system update and performance optimization. We appreciate your patience while we complete this process.",
-  "endTime": "2026-02-12T12:00:00Z"
+  "message": "We are currently performing a scheduled system update, including script enhancements and performance optimizations, to improve overall platform stability and reliability. During this time, some features may be temporarily unavailable. We appreciate your understanding and patience as we complete this process.",
+  "endTime": "2026-02-12T21:00:00Z"
 }
