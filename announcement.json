@@ -1,7 +1,7 @@
 {
-  "enabled": false,
+  "enabled": true,
   "minVersion": "1.0.4",
   "title": "System Script Enhancement",
   "message": "A scheduled script enhancement is currently in progress to optimize performance, strengthen system stability, and minimize potential issues. Temporary service interruptions may occur during this period. Thank you for your understanding while we complete this important update.",
-  "endTime": "2026-02-13T10:00:00Z"
+  "endTime": "2026-02-14T00:00:00Z"
 }
