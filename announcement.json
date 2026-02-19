@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "minVersion": "1.0.5",
-  "title": "Server in Progress",
-  "message": "Our team is currently deploying strategic system enhancements designed to improve performance, reinforce infrastructure stability, and deliver a more seamless user experience. Limited service availability may occur temporarily. We sincerely appreciate your patience and understanding during this process.",
-  "endTime": "2026-02-19T08:00:00Z"
+  "minVersion": "1.0.6",
+  "title": "Brand Evolution & New Partnership",
+  "message": "We are currently implementing a major update featuring our new app identity and logo. We are also thrilled to announce an official collaboration with developer **Alisa**. This partnership is designed to push our technical boundaries and deliver a more innovative, seamless experience for you. Thank you for being part of our journey!",
+  "endTime": "2026-02-19T05:00:00Z"
 }
