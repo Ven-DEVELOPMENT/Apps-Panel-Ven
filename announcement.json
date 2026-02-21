@@ -1,7 +1,7 @@
 {
-  "enabled": false,
+  "enabled": true,
   "minVersion": "1.0.6",
-  "title": "Maintenance Rebuild Ip SG",
-  "message": "Thank you for being part of our journey!",
-  "endTime": "2026-02-19T17:15:39Z"
+  "title": "Panel Temporarily Suspended",
+  "message": "The panel is currently suspended and undergoing a replacement process. At this time, we do not have a confirmed completion timeline. Our team is working diligently to restore the service as soon as possible. We sincerely apologize for the inconvenience and appreciate your patience and understanding.",
+  "endTime": "2026-02-21T12:30:30Z"
 }
